@@ -49,8 +49,3 @@ npm run dev
 ```
 
 Aplikasi akan tersedia di `http://localhost:5173`
-
-## Kredit
-
-Aplikasi ini dibuat menggunakan https://srcbook.com.
-Butuh bantuan atau ingin bergabung dengan komunitas? Bergabunglah dengan [Discord](https://discord.gg/shDEGBSe2d) kami.
